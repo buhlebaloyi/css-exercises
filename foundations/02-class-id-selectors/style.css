@@ -1,0 +1,19 @@
+.no-color {
+    background-color: pink;
+    font-family: Verdana, DejaVu-sans, sans-serif;
+}
+
+#second-element {
+    color: blue;
+    font-size: 32px;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
