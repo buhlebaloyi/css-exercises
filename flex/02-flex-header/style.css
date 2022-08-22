@@ -8,6 +8,11 @@
   align-items: center;
 }
 
+  /*My additions */
+.header ul{
+  display: flex;
+}
+
 .logo {
   font-size: 48px;
   font-weight: 900;
@@ -15,8 +20,7 @@
   background: white;
   padding: 4px 32px;
 
-  /*My additions */
-
+  /* My additions */
 }
 
 ul {
