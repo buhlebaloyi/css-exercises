@@ -9,8 +9,9 @@
 }
 
   /*My additions */
-.header ul{
+.header .right-links ul, .header .left-links ul{
   display: flex;
+  gap: 20px;
 }
 
 .logo {
