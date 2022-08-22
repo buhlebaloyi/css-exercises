@@ -11,7 +11,14 @@
   /*My additions */
 .header .right-links ul, .header .left-links ul{
   display: flex;
-  gap: 20px;
+  gap: 10px 10px;
+}
+
+  /*My additions */
+.header .right-links ul {
+  align-items: flex-end;
+  
+
 }
 
 .logo {
@@ -20,8 +27,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-
-  /* My additions */
 }
 
 ul {
