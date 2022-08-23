@@ -35,7 +35,8 @@ body {
 .right-links, .left-links {
   display: flex;
   justify-content: space-between;
-  padding: 10px;
+  gap: 16px;
+  list-style: none;
 }
 
 .footer {
