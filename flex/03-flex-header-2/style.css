@@ -55,8 +55,10 @@ ul {
 
 .header .logo, .header .links {
   display: flex;
+  padding: 8px;
 }
 
 .header .notifications, .links .profile-image {
   display: flex;
+  margin: 8px;
 }
