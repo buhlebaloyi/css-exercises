@@ -83,3 +83,9 @@ button.cancel {
   display: flex;
   justify-content: space-between;
 }
+
+.icon {
+  justify-content: center;
+  width: 100px;
+  height: 30px;
+}
