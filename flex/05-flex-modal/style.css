@@ -69,3 +69,7 @@ button.cancel {
 .modal {
   display: flex;
 }
+
+.header {
+  font-weight: bolder;
+}
