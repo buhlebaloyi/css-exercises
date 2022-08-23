@@ -76,4 +76,5 @@ button.cancel {
 
 .content {
   display: flex;
+  flex-direction: column;
 }
