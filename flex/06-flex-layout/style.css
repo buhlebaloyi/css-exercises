@@ -38,7 +38,8 @@ body {
   justify-content: space-between;
   gap: 16px;
   list-style: none;
-  padding: 16px;
+  margin: 8px;
+  padding: 8px;
 }
 
 .footer {
