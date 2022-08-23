@@ -78,3 +78,7 @@ button.cancel {
   display: flex;
   flex-direction: column;
 }
+
+.top-of-page {
+  display: flex;
+}
