@@ -31,3 +31,7 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.right-links, .left-links {
+  display: flex;
+}
