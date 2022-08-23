@@ -24,3 +24,10 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* My solution */
+.title {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
