@@ -46,3 +46,8 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* My solution */
+.header {
+  display: flex;
+}
