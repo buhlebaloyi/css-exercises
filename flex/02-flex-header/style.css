@@ -4,21 +4,15 @@
 
   /*My additions */
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
+  padding: 8px;
 }
 
   /*My additions */
-.header .right-links ul, .header .left-links ul{
+.header .right-links ul, .header .left-links ul {
   display: flex;
   gap: 10px 10px;
-}
-
-  /*My additions */
-.header .right-links ul {
-  align-items: flex-end;
-  
-
 }
 
 .logo {
