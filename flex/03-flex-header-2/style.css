@@ -50,4 +50,5 @@ ul {
 /* My solution */
 .header {
   display: flex;
+  align-items: center;
 }
