@@ -55,7 +55,7 @@ body {
   align-self: center;
 }
 
-.buttons {
+.buttons, img, .input {
   display: flex;
   align-self: center;
 }
