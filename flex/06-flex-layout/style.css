@@ -64,6 +64,10 @@ body {
   align-self: center;
 }
 
+.buttons {
+  padding: 8px;
+}
+
 a {
   text-decoration: none;
   color: #666;
