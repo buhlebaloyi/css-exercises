@@ -91,9 +91,7 @@ button.cancel {
 
 .icon {
   justify-content: center;
-  width: 150px;
-  height: 30px;
-  margin: 10px;
+  flex-shrink: 0;
 }
 
 .text {
