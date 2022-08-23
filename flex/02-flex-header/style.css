@@ -6,13 +6,15 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px;
+  padding: 10px;
 }
 
   /*My additions */
 .header .right-links ul, .header .left-links ul {
   display: flex;
-  gap: 10px 10px;
+  gap: 10px;
+  margin: 0;
+  padding: 0px;
 }
 
 .logo {
