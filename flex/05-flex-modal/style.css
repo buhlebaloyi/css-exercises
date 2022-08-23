@@ -85,7 +85,8 @@ button.cancel {
 .top-of-page {
   display: flex;
   justify-content: space-between;
-  padding: 5px;
+  padding: 0px;
+  align-items: center;
 }
 
 .icon {
