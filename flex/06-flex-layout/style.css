@@ -54,3 +54,7 @@ body {
   flex-direction: column;
   align-self: center;
 }
+
+.buttons {
+  display: flex;
+}
