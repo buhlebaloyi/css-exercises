@@ -73,3 +73,7 @@ button.cancel {
 .header {
   font-weight: bolder;
 }
+
+.content {
+  display: flex;
+}
