@@ -32,7 +32,7 @@ img {
   align-content: center;
 }
 
-.images {
+.images, .text{
   display: flex;
-  flex-direction: column;
+  justify-content: space-around;
 }
