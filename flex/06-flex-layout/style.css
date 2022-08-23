@@ -34,4 +34,5 @@ body {
 
 .right-links, .left-links {
   display: flex;
+  justify-content: space-between;
 }
