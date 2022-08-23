@@ -30,6 +30,7 @@ input {
 body {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .right-links, .left-links {
