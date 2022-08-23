@@ -68,10 +68,11 @@ button.cancel {
 /* My solution */
 .modal {
   display: flex;
+  padding: 10px;
 }
 
 .header {
-  font-weight: bolder;
+  font-weight: bold;
   padding: 10px;
 }
 
