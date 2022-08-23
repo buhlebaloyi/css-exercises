@@ -96,3 +96,7 @@ button.cancel {
 .text {
   padding: 5px;
 }
+
+.buttons {
+  padding: 10px;
+}
