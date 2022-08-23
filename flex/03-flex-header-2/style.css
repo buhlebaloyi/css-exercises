@@ -47,7 +47,7 @@ ul {
   list-style-type: none;
 }
 
-/* My solution */
+  /* My solution */
 .header {
   display: flex;
   align-items: center;
@@ -56,10 +56,9 @@ ul {
 
 .header .logo, .header .links {
   display: flex;
-  margin: 8px;
 }
 
-.header .notifications, .links .profile-image {
+.header .notifications, .header .profile-image {
   display: flex;
   margin: 8px;
 }
