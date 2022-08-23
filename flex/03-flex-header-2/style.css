@@ -62,5 +62,8 @@ ul {
 .header .notifications, .links .profile-image {
   display: flex;
   margin: 8px;
-  
+}
+
+.push-right {
+  margin-left: auto;
 }
