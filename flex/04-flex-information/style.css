@@ -31,3 +31,8 @@ img {
   justify-content: center;
   align-content: center;
 }
+
+.images {
+  display: flex;
+  flex-direction: column;
+}
