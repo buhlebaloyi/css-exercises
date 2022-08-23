@@ -92,3 +92,7 @@ button.cancel {
   height: 30px;
   margin: 10px;
 }
+
+.text {
+  padding: 5px;
+}
