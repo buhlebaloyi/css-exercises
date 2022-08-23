@@ -56,7 +56,7 @@ ul {
 
 .header .logo, .header .links {
   display: flex;
-  padding: 8px;
+  margin: 8px;
 }
 
 .header .notifications, .links .profile-image {
@@ -66,4 +66,8 @@ ul {
 
 .push-right {
   margin-left: auto;
+}
+
+.links {
+  gap: 8px;
 }
