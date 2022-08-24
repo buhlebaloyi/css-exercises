@@ -45,3 +45,7 @@ body {
 .cards {
   display: flex;
 }
+
+.sidebar {
+  display: flex;
+}
