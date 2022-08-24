@@ -30,4 +30,5 @@ body {
 /* My solution */
 body {
   display: flex;
+  flex-direction: column;
 }
