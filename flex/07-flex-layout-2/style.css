@@ -31,4 +31,9 @@ body {
 body {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer {
+  display: flex;
 }
