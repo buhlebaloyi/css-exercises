@@ -62,4 +62,9 @@ body {
 
 a {
   text-decoration: none;
+  color: #eee;
+}
+
+ul {
+  list-style: none;
 }
