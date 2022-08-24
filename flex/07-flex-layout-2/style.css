@@ -42,7 +42,7 @@ body {
 
 .content {
   display: flex;
-
+  flex: auto;
 }
 
 .cards {
