@@ -37,3 +37,7 @@ body {
 .footer {
   display: flex;
 }
+
+.content {
+  display: flex;
+}
