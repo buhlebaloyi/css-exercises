@@ -31,17 +31,18 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .footer {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: auto
 }
 
 .content {
   display: flex;
+
 }
 
 .cards {
