@@ -28,6 +28,6 @@ body {
 }
 
 /* My solution */
-.footer {
+body {
   display: flex;
 }
